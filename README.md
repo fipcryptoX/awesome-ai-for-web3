@@ -4,7 +4,7 @@
 
 ---
 
-## Contents
+## Table of Contents
 
 - [AI Agent Frameworks](#ai-agent-frameworks)
 - [Claude & OpenClaw Skills](#claude--openclaw-skills)
