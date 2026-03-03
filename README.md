@@ -41,6 +41,7 @@ Installable skill modules that teach AI agents how to interact with Web3 protoco
 - [CoinMarketCap OpenClaw Skills](https://clawhub.ai/u/bryan-cmc) - CoinMarketCap crypto market data skills packaged for OpenClaw agents.
 - [ETH Skills](https://ethskills.com/) - 16 skill modules covering gas, wallets, L2s, ERC standards, Foundry testing, DeFi composability, and The Graph integration. Each module is a URL an agent fetches.
 - [Abstract Foundation Skills](https://github.com/Abstract-Foundation/abstract-skills) - 7 skill modules for Abstract chain (zkSync L2): network config, contract deployment, Abstract Global Wallet, Safe Multisig, and ERC-8004 on-chain agent identity.
+- [BNB Chain Skills](https://github.com/bnb-chain/bnbchain-skills) - Skill for Claude and Cursor agents to configure the BNB Chain MCP server, query blockchain data, execute wallet operations, register ERC-8004 agent identities, and manage Greenfield decentralized storage.
 - [MegaETH AI Developer Skills](https://github.com/0xBreadguy/megaeth-ai-developer-skills) - 17 skill modules teaching AI agents MegaETH-specific development: instant transaction receipts (EIP-7966), RPC batching, mini-block patterns, storage optimization, and ERC-7710 delegation.
 - [Uniswap AI Skills](https://github.com/Uniswap/uniswap-ai) - Official Uniswap skills for coding agents: V4 hook development, swap integration, cooperative closing auction, liquidity planning, and viem/wagmi helpers.
 
