@@ -149,6 +149,12 @@ Contributions welcome. Please read the [contributing guidelines](CONTRIBUTING.md
 
 ---
 
+## Build smarter systems with AI
+
+For more practical insights on using AI to compound your social and onchain workflows, subscribe to my newsletter [here](https://insights.fipcrypto.com/).
+
+---
+
 ## License
 
 [CC0](LICENSE)
