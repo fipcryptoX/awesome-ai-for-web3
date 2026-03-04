@@ -78,6 +78,7 @@ APIs for accessing DeFi, token, and portfolio data across chains.
 - [CoinGecko API](https://www.coingecko.com/en/api) - 18,000+ coins, 250+ chains, OHLCV data, and a `pycoingecko` Python SDK.
 - [GoldRush by Covalent](https://goldrush.dev/) - 100+ chains, AI Agent SDK (TypeScript), MCP server, and Google Cloud Marketplace integration.
 - [Nansen API](https://www.nansen.ai/) - 500M+ labeled wallets, Smart Money analytics, and MCP integration.
+- [Nansen CLI](https://github.com/nansen-ai/nansen-cli) - Official CLI for the Nansen API; query wallet labels, Smart Money flows, and on-chain analytics directly from the terminal or agent pipelines.
 - [Dune Analytics](https://dune.com/docs/api/) - SQL-based on-chain queries, community dashboards, and API access.
 - [Moralis](https://moralis.io/) - Enterprise NFT, ERC-20, and transaction APIs with Streams webhooks and an MCP server.
 
