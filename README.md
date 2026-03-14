@@ -132,6 +132,7 @@ Model Context Protocol (MCP) servers that expose Web3 data and actions to AI ass
 - [CoinMarketCap MCP](https://coinmarketcap.com/api/mcp/) - 12 tools covering real-time prices, technical analysis (MACD, RSI, Fibonacci), on-chain metrics, trending narratives, and crypto news for 10,000+ cryptocurrencies.
 - [Dune MCP](https://docs.dune.com/api-reference/agents/mcp) - SQL-powered blockchain analytics via MCP; agents can discover tables, write and execute queries, and generate visualizations across multiple chains in a single conversation.
 - [GoldRush MCP](https://goldrush.dev/) - 100+ chain on-chain data via MCP.
+- [Kraken CLI](https://github.com/krakenfx/kraken-cli) - Agent-first CLI and built-in MCP server for Kraken; 134 commands covering spot, futures, staking, and xStocks trading with JSON output and paper trading support.
 - [Moralis MCP](https://moralis.io/) - 100+ endpoints across multiple chains via MCP.
 - [The Graph MCP](https://github.com/kukapay/thegraph-mcp) - Indexed blockchain data via MCP.
 - [Subgraph MCP Skills](https://github.com/PaulieB14/subgraph-mcp-skills) - Access to 15,000+ subgraphs via MCP.
