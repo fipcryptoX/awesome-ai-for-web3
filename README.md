@@ -135,6 +135,7 @@ Model Context Protocol (MCP) servers that expose Web3 data and actions to AI ass
 - [Kraken CLI](https://github.com/krakenfx/kraken-cli) - Agent-first CLI and built-in MCP server for Kraken; 134 commands covering spot, futures, staking, and xStocks trading with JSON output and paper trading support.
 - [Moralis MCP](https://moralis.io/) - 100+ endpoints across multiple chains via MCP.
 - [The Graph MCP](https://github.com/kukapay/thegraph-mcp) - Indexed blockchain data via MCP.
+- [Squid MCP](https://docs.squidrouter.com/api-and-sdk-integration/mcp) - MCP server connecting AI assistants to Squid Router for cross-chain token swaps across EVM chains; handles route quoting, execution, and transaction monitoring conversationally.
 - [Subgraph MCP Skills](https://github.com/PaulieB14/subgraph-mcp-skills) - Access to 15,000+ subgraphs via MCP.
 - [Thirdweb MCP](https://github.com/thirdweb-dev/ai) - 2,000+ blockchain read/write operations via MCP.
 
