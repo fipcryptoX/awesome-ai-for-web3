@@ -129,6 +129,7 @@ Node infrastructure and enhanced RPC APIs for agent development.
 
 Model Context Protocol (MCP) servers that expose Web3 data and actions to AI assistants.
 
+- [CoinGecko CLI](https://github.com/coingecko/coingecko-cli) - Agent/LLM-friendly CLI for 10,000+ cryptocurrencies; JSON/NDJSON output, WebSocket streaming, historical OHLC, category filtering, and top gainers/losers for agent pipelines.
 - [CoinMarketCap MCP](https://coinmarketcap.com/api/mcp/) - 12 tools covering real-time prices, technical analysis (MACD, RSI, Fibonacci), on-chain metrics, trending narratives, and crypto news for 10,000+ cryptocurrencies.
 - [Dune MCP](https://docs.dune.com/api-reference/agents/mcp) - SQL-powered blockchain analytics via MCP; agents can discover tables, write and execute queries, and generate visualizations across multiple chains in a single conversation.
 - [GoldRush MCP](https://goldrush.dev/) - 100+ chain on-chain data via MCP.
