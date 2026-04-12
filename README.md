@@ -49,6 +49,8 @@ Installable skill modules that teach AI agents how to interact with Web3 protoco
 - [Uniswap AI Skills](https://github.com/Uniswap/uniswap-ai) - Official Uniswap skills for coding agents: V4 hook development, swap integration, cooperative closing auction, liquidity planning, and viem/wagmi helpers.
 
 ---
+- [toprank](https://github.com/nowork-studio/toprank) - SEO & Google Ads skills for Claude Code. Meta tag rewrites, JSON-LD schema markup, keyword bid adjustments, and content pushes to WordPress/Strapi/Contentful/Ghost.
+
 
 ## Web3 SDKs for Agents
 
